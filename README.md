@@ -43,11 +43,12 @@ Official resource, sites, and content provided and supported by ServiceNow.
 - [VS Code extension](https://marketplace.visualstudio.com/items?itemName=ServiceNow.now-vscode)
 - [ServiceNow CLI](https://docs.servicenow.com/bundle/rome-application-development/page/build/servicenow-cli/concept/servicenow-cli.html)
 #### Third-party
-- [SN Utils Browser Extension](https://www.arnoudkooi.com/)
+- [SN Utils Browser Extension](https://www.arnoudkooi.com/) Must-have tools in the browser. Slash commands, enhanced script editing, node switching and more.
 - [sn-scriptsync VS Code Extension](https://marketplace.visualstudio.com/items?itemName=arnoudkooicom.sn-scriptsync) Supporting VS Code extension for the SN Utils browser extension. Get the power of VS Code in the in-platform script editor.
+- [SN Toolbelt](https://chrome.google.com/webstore/detail/servicenow-tool-belt/jflcifhpkilfaomlnikfaaccmpidkmln) Another set of useful tools that includes quick documentation and API lookup, and super-charged instance switching.
+- [Xplore](https://github.com/jneale/Xplore) Alternative background script runner, explore table data and script objects, and enhanced debugging.
 ## Learning, Training, and Certification
 - [Now Learning](https://nowlearning.service-now.com/lxp) ServiceNow's online learning and recognition portal. Access a full range of on-demand courses, certifications, achievements, and hands-on practice. Follow curated learning paths to enhance your career and knowledge across the many ServiceNow products. On-demand and instructor-led virtual courses and certification are available.
-- [Now Creators](https://www.servicenow.com/success/now-creators.html) Are you an Administrator, Developer, Implementer, Service owner, or Business process analyst? Find the next step for your career on Now Creators.
 - [On-Demand Webinars](https://www.servicenow.com/events/on-demand-webinars.html) Topical webinars typically 30-minutes to 1-hour in length categorized by workflow.
 ### Podcasts
 - [ServiceNow Podcasts](https://community.servicenow.com/community?id=community_static&sys_id=935466acdbaa94d49e691ea66896199a) Podcasts covering various topics from development, thought leadership, deep dives into specific products, and interviews with members of the Now Community.
