@@ -7,6 +7,7 @@
 - [Official Resources](#official-resources)
 - [Getting Started](#getting-started)
 - [Development](#development)
+- [Learning, Training, and Certification](#learning-training-and-certification)
 - [Events](#events)
 - [Books and Blogs](#books-and-blogs)
 - [Contribute](#contribute)
@@ -17,7 +18,7 @@ First party resources, sites, and content provided and supported by ServiceNow.
 
 - [Resources from Now Support](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0540930) - Hub for various product support landing pages.
 - [NOW Community](https://community.servicenow.com/community?id=community_home) - Global forum for customers, developers, and partners to collaborate and share. Ask questions, read and write blog posts and articles, join events and more.
-- [Customer Success Center](https://www.servicenow.com/success.html) - Customer’s one-stop shop for prescriptive, actionable resources designed to make you more successful. Playbooks, best practices, value calculators, insights, checklists, quick answers.
+- [Customer Success Center](https://www.servicenow.com/success.html) - Customers' one-stop shop for prescriptive, actionable resources designed to make you more successful. Playbooks, best practices, value calculators, insights, checklists, quick answers.
 - [Resources page](https://www.servicenow.com/resources.html) - Ebooks, white papers, infographics, analyst reports, data sheets, case studies, webinars, and more. A treasure-trove of downloadable content to learn and share.
 - [Now Create](https://nowlearning.servicenow.com/nowcreate) - Success packs, process guides, workshop decks, templates, and more. Create exceptional business outcomes, faster and with less risk using ServiceNow's Now Create methodology. Prescriptive guidance on how the product suites built on the Now Platform are intended to be used.
 
@@ -25,7 +26,7 @@ First party resources, sites, and content provided and supported by ServiceNow.
 
 ### New to ServiceNow? Start here
 
-- [ServiceNow Corporate Website](https://servicenow.com) - Product overviews, and landing page to practically all other ServiceNow sites.
+- [ServiceNow Products](https://www.servicenow.com/products-by-category.html) - Product overviews, and landing page to practically all other ServiceNow sites. View all products and solutions by category, industry, and A-Z list.
 - [Official ServiceNow Product Documentation](https://docs.servicenow.com/) - Detailed product documentation and administration guides.
 - [Welcome to ServiceNow course](https://nowlearning.servicenow.com/lxp/en/now-platform/welcome-to-servicenow?id=learning_course_prev&course_id=2f61d383475cf95890542034846d4307) - Explore the seven core areas of ServiceNow and how to navigate the Platform.
 - [ServiceNow Foundation Videos](https://community.servicenow.com/community?id=community_article&sys_id=a2dc2a65dbd0dbc01dcaf3231f96197e) - Get a quick introduction to ServiceNow with a short series of videos.
@@ -49,7 +50,7 @@ First party resources, sites, and content provided and supported by ServiceNow.
 
 #### First-party
 
-- [VS Code extension](https://marketplace.visualstudio.com/items?itemName=ServiceNow.now-vscode) - Manage scoped application files from within Microsoft Visual Studio Code
+- [VS Code extension](https://marketplace.visualstudio.com/items?itemName=ServiceNow.now-vscode) - Manage scoped application files from within Microsoft Visual Studio Code.
 - [ServiceNow CLI](https://docs.servicenow.com/bundle/rome-application-development/page/build/servicenow-cli/concept/servicenow-cli.html) - A command-line interface that lets you perform instance operations from your local system.
 
 #### Third-party
