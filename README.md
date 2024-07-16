@@ -9,7 +9,7 @@
 - [Development](#development)
 - [Learning, Training, and Certification](#learning-training-and-certification)
 - [Events](#events)
-- [Books and Blogs](#books-and-blogs)
+- [Books, Blogs, and Podcasts](#books-blogs-and-podcasts)
 - [Contribute](#contribute)
 
 ## Official Resources
@@ -65,10 +65,6 @@ First party resources, sites, and content provided and supported by ServiceNow.
 - [Now Learning](https://nowlearning.service-now.com/lxp) - ServiceNow's online learning and recognition portal. Access a full range of on-demand courses, certifications, achievements, and hands-on practice. Follow curated learning paths to enhance your career and knowledge across the many ServiceNow products. On-demand and instructor-led virtual courses and certification are available.
 - [On-Demand Webinars](https://www.servicenow.com/events/on-demand-webinars.html) - Topical webinars typically 30-minutes to 1-hour in length categorized by workflow.
 
-### Podcasts
-
-- [ServiceNow Podcasts](https://community.servicenow.com/community?id=community_static&sys_id=935466acdbaa94d49e691ea66896199a) - Podcasts covering various topics from development, thought leadership, deep dives into specific products, and interviews with members of the Now Community.
-
 ### Community Meta-Posts
 
 > Community articles highlighting great content
@@ -84,12 +80,21 @@ First party resources, sites, and content provided and supported by ServiceNow.
 - [ServiceNow User Groups (SNUG)](https://community.servicenow.com/community?id=community_user_group) - Network with ServiceNow customers in your area (virtually and in-person), attend workshops focusing on specific products and features, share best practices, and get an inside look into the newest products and features. Partners can attend or sponsor, but these are _not_ sales presentations.
 - [Developer Meetup](https://www.meetup.com/pro/servicenowdevprogram/) - Connect with peers, share best practices, and stay up-to-date with the latest ServiceNow trends.
 
-## Books and Blogs
+## Books, Blogs, and Podcasts
+
+### Books
 
 - [The ServiceNow Developer's Handbook 3rd Ed. by Tim Woodruff](https://handbook.snc.guru/) - Be a better admin/dev on the Now Platform. Check out free exerpts [here](https://timothywoodruff.com/handbook-exports).
+
+### Blogs
+
 - [Developer Blog](https://www.servicenow.com/community/developer-advocate-blog/bg-p/developer-advocate-blog) - All things Developer Program.
 - [jace.pro](https://jace.pro/blog/) - Jace Benson's blog.
 - [WomenNow Blog](https://www.womennow.sn/posts) - Reader-submitted posts that Spotlight women doing awesome things in the ServiceNow community.
+
+### Podcasts
+
+- [ServiceNow Podcast Directory](https://community.servicenow.com/community?id=community_static&sys_id=935466acdbaa94d49e691ea66896199a) - Podcasts covering various topics from development, thought leadership, deep dives into specific products, and interviews with members of the Now Community.
 
 ## Contribute
 
