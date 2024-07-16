@@ -64,6 +64,7 @@ First party resources, sites, and content provided and supported by ServiceNow.
 
 - [Now Learning](https://nowlearning.service-now.com/lxp) - ServiceNow's online learning and recognition portal. Access a full range of on-demand courses, certifications, achievements, and hands-on practice. Follow curated learning paths to enhance your career and knowledge across the many ServiceNow products. On-demand and instructor-led virtual courses and certification are available.
 - [On-Demand Webinars](https://www.servicenow.com/events/on-demand-webinars.html) - Topical webinars typically 30-minutes to 1-hour in length categorized by workflow.
+- [Platform Academies](https://www.servicenow.com/community/now-platform-blog/platform-academies-overview/ba-p/2278649) - Bi-weekly live and on-demand webinars covering a wealth of platform topics such as Platform Fundamentals, Platform Analytics, Workflow, Knowledge Management, AI, Mobile, Next Experience, and Process Mining.
 
 ### Community Meta-Posts
 
