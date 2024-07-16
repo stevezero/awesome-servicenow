@@ -4,10 +4,12 @@
 
 ## Contents
 
-- [Official Resources](#section)
-- [Getting Started](#gettingstarted)
+- [Official Resources](#official-resources)
+- [Getting Started](#getting-started)
 - [Development](#development)
 - [Events](#events)
+- [Books and Blogs](#books-and-blogs)
+- [Contribute](#contribute)
 
 ## Official Resources
 
@@ -26,13 +28,13 @@ First party resources, sites, and content provided and supported by ServiceNow.
 - [ServiceNow Corporate Website](https://servicenow.com) - Product overviews, and landing page to practically all other ServiceNow sites.
 - [Official ServiceNow Product Documentation](https://docs.servicenow.com/) - Detailed product documentation and administration guides.
 - [Welcome to ServiceNow course](https://nowlearning.servicenow.com/lxp/en/now-platform/welcome-to-servicenow?id=learning_course_prev&course_id=2f61d383475cf95890542034846d4307) - Explore the seven core areas of ServiceNow and how to navigate the Platform.
-- [ServiceNow Foundation Videos](https://community.servicenow.com/community?id=community_article&sys_id=a2dc2a65dbd0dbc01dcaf3231f96197e) - Get a quick introduction to ServiceNow with a short series of videos
+- [ServiceNow Foundation Videos](https://community.servicenow.com/community?id=community_article&sys_id=a2dc2a65dbd0dbc01dcaf3231f96197e) - Get a quick introduction to ServiceNow with a short series of videos.
 - [Now Support](https://support.servicenow.com/now) - Keep track of your company's instance maintenance, cases, and search troubleshooting articles.
 
 ## Development
 
 - [ServiceNow Developers](https://developer.servicenow.com/) - Request a free Personal Developer Instance (PDI) and access guides, best practices, and API references for developing applications on the Now Platform.
-- [Developer Short Link Directory](https://devlink.sn/links) - A central repository of useful ServiceNow developer links [devlink.sn/links](devlink.sn/links).
+- [Developer Short Link Directory devlinks.sn/links](https://devlink.sn/links) - A central repository of useful ServiceNow developer links.
 - [Share](https://developer.servicenow.com/connect.do#!/share) - Update sets and scripts shared by other ServiceNow creators.
 
 ### Community
@@ -83,7 +85,7 @@ First party resources, sites, and content provided and supported by ServiceNow.
 
 ## Books and Blogs
 
-- [The ServiceNow Developer's Handbook 3rd Ed. by Tim Woodruff](https://handbook.snc.guru/) - Be a better admin/dev on the Now Platform. Check out free exerpts [here](https://timothywoodruff.com/handbook-exports)
+- [The ServiceNow Developer's Handbook 3rd Ed. by Tim Woodruff](https://handbook.snc.guru/) - Be a better admin/dev on the Now Platform. Check out free exerpts [here](https://timothywoodruff.com/handbook-exports).
 - [Developer Blog](https://www.servicenow.com/community/developer-advocate-blog/bg-p/developer-advocate-blog) - All things Developer Program.
 - [jace.pro](https://jace.pro/blog/) - Jace Benson's blog.
 - [WomenNow Blog](https://www.womennow.sn/posts) - Reader-submitted posts that Spotlight women doing awesome things in the ServiceNow community.
