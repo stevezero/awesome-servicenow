@@ -57,6 +57,7 @@ First party resources, sites, and content provided and supported by ServiceNow.
 - [sn-scriptsync VS Code Extension](https://marketplace.visualstudio.com/items?itemName=arnoudkooicom.sn-scriptsync) - Supporting VS Code extension for the SN Utils browser extension. Get the power of VS Code in the in-platform script editor.
 - [SN Toolbelt](https://chrome.google.com/webstore/detail/servicenow-tool-belt/jflcifhpkilfaomlnikfaaccmpidkmln) - Another set of useful tools that includes quick documentation and API lookup, and super-charged instance switching.
 - [Xplore](https://github.com/jneale/Xplore) - Alternative background script runner, explore table data and script objects, and enhanced debugging.
+- [Serac](https://github.com/serac-labs/serac) - Open-source AI build agent for ServiceNow. Describe a user story and Serac plans the work, opens an update set, and builds it via a 400+ MCP tool catalogue, using your own LLM keys.
 
 ## Learning, Training, and Certification
 
