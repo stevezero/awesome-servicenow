@@ -56,6 +56,7 @@ First party resources, sites, and content provided and supported by ServiceNow.
 - [SN Utils Browser Extension](https://www.arnoudkooi.com/) - Must-have tools in the browser. Slash commands, enhanced script editing, node switching and more.
 - [sn-scriptsync VS Code Extension](https://marketplace.visualstudio.com/items?itemName=arnoudkooicom.sn-scriptsync) - Supporting VS Code extension for the SN Utils browser extension. Get the power of VS Code in the in-platform script editor.
 - [SN Toolbelt](https://chrome.google.com/webstore/detail/servicenow-tool-belt/jflcifhpkilfaomlnikfaaccmpidkmln) - Another set of useful tools that includes quick documentation and API lookup, and super-charged instance switching.
+- [TestDriver](https://testdriver.ai) - AI code reviewer that actually runs your ServiceNow instance. Automatically runs every pull request in a real browser sandbox, finds bugs, and builds regression tests resilient to the platform's dynamic DOM and iframes.
 - [Xplore](https://github.com/jneale/Xplore) - Alternative background script runner, explore table data and script objects, and enhanced debugging.
 
 ## Learning, Training, and Certification
