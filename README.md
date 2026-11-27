@@ -70,6 +70,7 @@ First party resources, sites, and content provided and supported by ServiceNow.
 
 - [200+ Articles, Blogs, Video's, and Share projects - Experiences from the field - which might benefit you](https://community.servicenow.com/community?id=community_blog&sys_id=14e51965db2200d013b5fb24399619fb)
 - [NOWSupport best practices series list](https://community.servicenow.com/community?id=community_blog&sys_id=6e7d6269dbd0dbc01dcaf3231f9619c0)
+- [The Work Gym ServiceNow course](https://theworkgym.com/servicenow/) - Independent modeled browser instance for practicing CMDB, imports, incidents, problem and change, mapped to Certified System Administrator topics; not affiliated with ServiceNow. First unit free.
 
 ## Events
 
